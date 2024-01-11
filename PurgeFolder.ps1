@@ -45,6 +45,7 @@ Function f_log()
 ##########################################################
 
 f_log "[INFO] Script started. Purging ${SourceDir}" ${LogFile}
+Write-Host "Log File = ${LogFile}"
 
 if (-not (Test-Path $SourceDir)) {
   # Folder not found
