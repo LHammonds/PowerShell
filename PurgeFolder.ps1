@@ -12,7 +12,7 @@
 ## DATE       VER WHO WHAT WAS CHANGED
 ## ---------- --- --- ------------------------------------------
 ## 2020-07-22 1.0 LTH Created script as MS-DOS Batch.
-## 2024-01-09 1.1 LTH Converted MS-DOS Batch to PowerShell.
+## 2024-01-11 1.1 LTH Converted MS-DOS Batch to PowerShell.
 #############################################################
 
 $SourceDir = "C:\TestFolder"
